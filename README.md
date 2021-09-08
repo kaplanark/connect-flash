@@ -1,4 +1,4 @@
-## connet-flash modüle example
+## connet-flash module example
 
 <img src="screenshot.png">
 
